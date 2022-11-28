@@ -3,3 +3,4 @@ lightweight_mmm.egg-info/PKG-INFO
 lightweight_mmm.egg-info/requires.txt
 lightweight_mmm.egg-info/SOURCES.txt
 lightweight_mmm.egg-info/top_level.txt
+*.pyc
