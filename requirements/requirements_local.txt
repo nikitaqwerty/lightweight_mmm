@@ -25,6 +25,4 @@ pandas>=1.1.5
 scipy
 seaborn==0.11.1
 scikit-learn
-tensorflow>=2.7.2; sys_platform != 'darwin'
-tensorflow-macos; sys_platform == 'darwin'
 typing_extensions;python_version<'3.8'
